@@ -1,0 +1,22 @@
+{
+    "FJCxxxxxxx": {
+        "config-filename": "lw_AP_config.cfg",
+        "deviceName": "lw-testAP1",
+        "hostnameSet": false
+    },
+    "FOCxxxxxxx": {
+        "config-filename": "ewc_AP_config.cfg",
+        "deviceName": "ewc-TestAP2",
+        "hostnameSet": false
+    },
+    "FJCyyyyyyy": {
+        "config-filename": "lw_AP_config.cfg",
+        "deviceName": "LW-AP2",
+        "hostnameSet": false
+    },
+    "FJCxxxyyyyy": {
+        "config-filename": "Jake-ME-Config.txt",
+        "deviceName": "ME-AP1",
+        "hostnameSet": false
+    }
+}
